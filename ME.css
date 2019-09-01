@@ -133,8 +133,42 @@ body {
     margin-top: -400px;
 
   }
+  .skillh{
+    height: 200px;
+    width: 200px;
+    background-color: #c0c0c0;
+    border: #c0c0c0 solid 2px;
+    
 
+  }
+  .skillh:hover{
+    transform: translate(20px,20px);
+    transition: 0.5s;
+    
+  }
+  #oneh{
+    margin-left: 625px;
+    margin-top: 40px;
+  }
 
+  #twoh{
+    margin-left: 925px;
+    margin-top:  -200px;
+
+  }
+  #hobbies{
+    margin-top: px;
+  }
+  #threeh{
+    margin-left: 625px;
+    margin-top: 340px;
+
+  }
+  #fourh{
+    margin-left: 925px;
+    margin-top: -200px;
+
+  }
 
 
 
